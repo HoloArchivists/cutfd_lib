@@ -68,17 +68,11 @@ dependencies = [
 name = "cutfd_lib"
 version = "0.1.0"
 dependencies = [
- "cutfd_lib 0.1.0 (git+https://github.com/Ryu1845/cutfd_lib.git)",
  "hound",
  "itertools",
  "rstats",
  "super_mass",
 ]
-
-[[package]]
-name = "cutfd_lib"
-version = "0.1.0"
-source = "git+https://github.com/Ryu1845/cutfd_lib.git#d38091e993173bbf107ab14c5c5d0db34de8e1c4"
 
 [[package]]
 name = "either"
